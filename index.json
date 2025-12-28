@@ -1,0 +1,19 @@
+{
+  "packages": {
+    "math": {
+      "version": "1.0.0",
+      "description": "Математические функции для SpaceScript",
+      "url": "https://raw.githubusercontent.com/JDdijey/SpacescriptPKG/main/packages/math.ssp"
+    },
+    "html": {
+      "version": "1.0.0", 
+      "description": "Генерация HTML кода",
+      "url": "https://raw.githubusercontent.com/JDdijey/SpacescriptPKG/main/packages/html.ssp"
+    },
+    "text": {
+      "version": "1.0.0",
+      "description": "Показывает текст в скобках",
+      "url": "https://raw.githubusercontent.com/JDdijey/SpacescriptPKG/main/packages/text.ssp"
+    }
+  }
+}
