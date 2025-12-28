@@ -1,0 +1,14 @@
+h {
+  CFun mpage {
+    vr title = !input("Напишите заголовок сайта ")
+    vr h1 = !input("Напишите первый текст")
+    vr h3 = !input("Напишите второй текст")
+    show(
+    <DOCTYPE HTML>
+    <title>/&/$title_/&/</title>
+    <h1>/&/$h1_/&/</h1>
+    <h3>/&/$h3_/&/</h3>
+    <h6>powered by Spacescript</h6>
+    )
+  }
+}
