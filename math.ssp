@@ -1,0 +1,6 @@
+m {
+    CFun clc {
+      vr result = !reslt({_text})
+      show($result_)
+    }
+}
