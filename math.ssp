@@ -1,6 +1,4 @@
-m {
-    CFun clc {
-      vr result = !reslt({_text})
+CFun calc[fn|sn] {
+      vr result = !reslt({_fn_} + {_sn_})
       show($result_)
-    }
 }
